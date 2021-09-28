@@ -1,0 +1,49 @@
+<!--created by Kratika Soni-->
+<!--visit to my social accounts too-->
+<!--please upvote my code and leave a comment too-->
+<!DOCTYPE html>
+   
+<html>
+   
+<head>  
+<title>Profile Card</title> 
+  <link rel="stylesheet" type="text/css" href="style.css">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+      
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body>   
+<div class="card">       
+  <div class="up">          
+   <div class="img">            
+      <img src="https://pbs.twimg.com/profile_images/1196000874222407680/BSTNGq-h.jpg" />      
+      </div>    
+         </div>
+            
+          <div class="down">      
+          <div>           
+          <h3><b>KRATIKA SONI</b></h3>                   
+          <h4>An Aspiring Developer</h4>
+           </div>   
+             <div>             
+               <p >Hey there everyone.<br />I'm Kratika.<br />I like to do Coding, Storytelling, Painting, Sketching, reading, Making Friends and exploring every aspect of life. </p>       
+               </div>        
+                <div>         
+                <a href="https://www.sololearn.com/Profile/6469695/?ref=app" class="btn">View profile</a> <br />
+               
+        </div><br />
+       
+            <div class="social" style="color: #44318d;">
+        <ul>
+            <a href="https://pin.it/2bi6vqchnwpjwu"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+           
+            <a href="https://www.quora.com/profile/Kratika-Soni-9?ch=10&share=09db989f&srid=3QKVZ"><i class="fa fa-quora" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/kratikasoni16?s=09"><i class="fa fa-twitter" aria-hidden="true"></i></a>  
+             
+        </ul>
+        </div>         
+</body>
+   
+</html>
+
+
